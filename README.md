@@ -8,4 +8,6 @@ Second Week Exercises -> [Pandas_Exercises](https://github.com/walterbishop67/Mi
 Third Week Exercises -> [Diabetes_Feature_Engineering](https://github.com/walterbishop67/Miuul_Machine_Learning/blob/main/W_3_Exs/Miuul_Diabetes_Feature_Engineering.ipynb) and [Telco_Churn_Feature_Engineering](https://github.com/walterbishop67/Miuul_Machine_Learning/blob/main/W_3_Exs/Miuul_Telco_Churn_Feature_Engineering.ipynb)
 
 Fourth Week Exercise -> [Salary_Prediction_Model](https://github.com/walterbishop67/Miuul_Machine_Learning/blob/main/W_4_Exs/Salary_Prediction_Model.ipynb)
+
+Fifth Week Exercises -> [House_Price_Prediction](https://github.com/walterbishop67/Miuul_Machine_Learning/blob/main/W_5_Exs/HousePricePrediction.ipynb)
  
